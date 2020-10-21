@@ -1,1 +1,1 @@
-# kgpython
+# KGPYTHON - Python на Кыргызском
